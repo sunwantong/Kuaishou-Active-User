@@ -20,5 +20,5 @@
 
 # 模型2
  ## 运行方式:
- 1.lr特征选择.py <br>
- 2.model2-cy.py
+ 1.lr特征选择 <br>
+ 2.model2-cy
