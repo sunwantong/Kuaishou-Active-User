@@ -4,7 +4,7 @@
 [赛题链接](https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4/content) 
 
 
-# 模型1
+# 模型一
   - ## 运行方式：
          1.extract_feat(只需更改文件路径即可)  
 
@@ -18,8 +18,8 @@
             1-23预测24-30 ,
             1-30预测31-37
 
-# 模型2
+# 模型二
  - ## 运行方式:
-   1.lr特征选择 <br>
-   2.model2-cy
+       1.lr特征选择 <br>
+       2.model2-cy
  
